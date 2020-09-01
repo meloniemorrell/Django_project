@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7258cd1-80a2-4fdf-80c6-9d69ff4adb8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Django_project" />
+  </component>
+  <component name="JupyterTrust" id="2f251187-0d04-4ac0-98e9-365b28c9fa73" />
+  <component name="ProjectId" id="1gqwqtB826rh1vW5Y20Px2ZwFTe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django_repository/DjangoUniversity" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7258cd1-80a2-4fdf-80c6-9d69ff4adb8a" name="Default Changelist" comment="" />
+      <created>1598855650694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598855650694</updated>
+      <workItem from="1598855670393" duration="153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="148" key="FileChooserDialogImpl" timestamp="1598855878123">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="148" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598855878123" />
+  </component>
+</project>
